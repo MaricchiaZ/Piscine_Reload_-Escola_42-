@@ -28,4 +28,4 @@ Ele oferece a oportunidade de praticar habilidades em programação, resolução
 
 ## Estrutura do Repositório
 - Cada exercício deve ser entregue em uma pasta separada, nomeada pelo número do exercício.
-- Dentro de cada pasta, você encontrará os arquivos de código fonte e os arquivos de instruções.
+- A Pasta Piscine_Reload_Comment você encontrará o código bem explicado, para ajudar a entender o quue faz cada função.
